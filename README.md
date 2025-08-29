@@ -17,6 +17,8 @@ cd hello-world
 npx expo start
 ```
 
+(If `npx expo start` doesn't work try `npx expo start --tunnel`)
+
 3. Open the app in Expo GoLinks to an external site. on your phone.
 
 4. Replace the default text with your own custom message.
